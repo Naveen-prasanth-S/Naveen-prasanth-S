@@ -46,7 +46,7 @@ Aspiring Software Developer 🚀
 
 | Project/Description | GitHub |
 |---------------------|--------|
-| 🎮 **Interactive Skill Enhancer VR** – VR & AI-based platform for children with ASD using Unity, Firebase & Flutter. | [Link](https://github.com/your-username/interactive-skill-enhancer-vr) |
+| 🎮 **Interactive Skill Enhancer VR** – VR & AI-based platform for children with ASD using Unity, Firebase & Flutter. | [Link](https://github.com/Naveen-prasanth-S/Interactive-Skill-Enhancer) |
 | 💊 **Prescription Validation Portal** – Built using ReactJS, NodeJS, ExpressJS & MongoDB with authentication and validation. | [Link](https://github.com/your-username/prescription-validation-portal) |
 | 📚 **V-Learn** – Collaborative study hub for students to share and access academic resources. | [Link](https://github.com/your-username/v-learn) |
 | 🧠 **Interactive Quiz** – Web-based quiz platform developed using HTML, CSS, Bootstrap, and JavaScript for interactive learning and knowledge testing. | [Link](https://github.com/Naveen-prasanth-S/Interactive-Quiz) |
