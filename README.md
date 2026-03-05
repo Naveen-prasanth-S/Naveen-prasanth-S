@@ -17,8 +17,8 @@ Aspiring Software Developer 🚀
 
 ### 🔗 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/naveen-prasanth-s-470079296/
-- 💻 LeetCode: https://leetcode.com/u/23isr036/
+- 💼 LinkedIn: https://www.linkedin.com/in/naveen-prasanth-s-470079296/  
+- 💻 LeetCode: https://leetcode.com/u/23isr036/  
 - 📧 Email: naveenprasanths.23msc@kongu.edu  
 
 ---
@@ -44,12 +44,12 @@ Aspiring Software Developer 🚀
 
 ### 🛠️ Projects
 
-- 🎮 **Interactive Skill Enhancer VR**  
+- 🎮 **Interactive Skill Enhancer VR** | [Repository](https://github.com/your-username/interactive-skill-enhancer-vr)  
   VR & AI-based platform for children with ASD using Unity, Firebase & Flutter.
 
-- 💊 **Prescription Validation Portal**  
+- 💊 **Prescription Validation Portal** | [Repository](https://github.com/your-username/prescription-validation-portal)  
   Built using ReactJS, NodeJS, ExpressJS & MongoDB with authentication and validation.
 
-- 📚 **V-Learn**  
+- 📚 **V-Learn** | [Repository](https://github.com/your-username/v-learn)  
   Collaborative study hub for students to share and access academic resources.  
-  **Tech Stack:** Web, Database
+  Tech Stack: MERN (MongoDB, Express, React, Node.js)
