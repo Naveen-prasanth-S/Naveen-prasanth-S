@@ -44,12 +44,8 @@ Aspiring Software Developer 🚀
 
 ### 🛠️ Projects
 
-- 🎮 **Interactive Skill Enhancer VR** | [Repository](https://github.com/your-username/interactive-skill-enhancer-vr)  
-  VR & AI-based platform for children with ASD using Unity, Firebase & Flutter.
-
-- 💊 **Prescription Validation Portal** | [Repository](https://github.com/your-username/prescription-validation-portal)  
-  Built using ReactJS, NodeJS, ExpressJS & MongoDB with authentication and validation.
-
-- 📚 **V-Learn** | [Repository](https://github.com/your-username/v-learn)  
-  Collaborative study hub for students to share and access academic resources.  
-  Tech Stack: MERN (MongoDB, Express, React, Node.js)
+| Project/Description | GitHub |
+|---------------------|--------|
+| 🎮 **Interactive Skill Enhancer VR** – VR & AI-based platform for children with ASD using Unity, Firebase & Flutter. | [Link](https://github.com/your-username/interactive-skill-enhancer-vr) |
+| 💊 **Prescription Validation Portal** – Built using ReactJS, NodeJS, ExpressJS & MongoDB with authentication and validation. | [Link](https://github.com/your-username/prescription-validation-portal) |
+| 📚 **V-Learn** – Collaborative study hub for students to share and access academic resources. | [Link](https://github.com/your-username/v-learn) |
