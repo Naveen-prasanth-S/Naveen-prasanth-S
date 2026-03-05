@@ -50,11 +50,6 @@ Aspiring Software Developer 🚀
 - 💊 **Prescription Validation Portal**  
   Built using ReactJS, NodeJS, ExpressJS & MongoDB with authentication and validation.
 
-- 🧠 **Interactive Quiz Portal**  
-  Dynamic quiz platform with real-time scoring and performance tracking.
-
----
-
-### 🧠 LeetCode Stats
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/23isr036?ext=contest&theme=dark)](https://leetcode.com/u/23isr036/)
+- 📚 **V-Learn**  
+  Collaborative study hub for students to share and access academic resources.  
+  **Tech Stack:** Web, Database
