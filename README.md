@@ -40,12 +40,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Naveen-prasanth-S&show_icons=true&theme=radical&count_private=true" alt="Naveen's GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Naveen-prasanth-S&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Naveen's GitHub Stats"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-prasanth-S&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-prasanth-S&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-prasanth-S&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveen-prasanth-S&theme=radical" alt="GitHub Profile Summary"/>
 </p>
 
 ---
@@ -56,9 +60,9 @@
 |------------|-------------|------------|
 | 🎮 **Interactive Skill Enhancer VR** | VR and AI-based learning platform designed to support children with Autism Spectrum Disorder using Unity, Firebase, and Flutter. | https://github.com/Naveen-prasanth-S/Interactive-Skill-Enhancer |
 | 💊 **Prescription Validation Portal** | Full-stack healthcare validation portal developed with ReactJS, NodeJS, ExpressJS, and MongoDB. | https://github.com/Naveen-prasanth-S/Perscription-Validation |
+| 📌 **Attendo** | Attendance tracking application for employees and students with cloud-based synchronization. | https://github.com/Naveen-prasanth-S/Attendo_app |
 | 📚 **V-Learn** | A collaborative learning platform where students can share study resources and connect with peers. | https://github.com/Naveen-prasanth-S |
 | 🧠 **Interactive Quiz Website** | Interactive quiz application built using HTML, CSS, Bootstrap, and JavaScript for engaging learning. | https://github.com/Naveen-prasanth-S/Interactive-Quiz |
-| 📌 **Attendo** | Attendance tracking application for employees and students with cloud-based synchronization. | https://github.com/Naveen-prasanth-S/Attendo_app |
 
 ---
 
