@@ -1,4 +1,4 @@
-[## 👋 Hello! I'm Naveen Prasanth S
+## 👋 Hello! I'm Naveen Prasanth S
 
 🎓 M.Sc. Software Systems Student  
 💻 Passionate Software Developer | Tech Enthusiast  
@@ -56,10 +56,10 @@
 |------------|-------------|------------|
 | 🎮 **Interactive Skill Enhancer VR** | VR and AI-based learning platform designed to support children with Autism Spectrum Disorder using Unity, Firebase, and Flutter. | https://github.com/Naveen-prasanth-S/Interactive-Skill-Enhancer |
 | 💊 **Prescription Validation Portal** | Full-stack healthcare validation portal developed with ReactJS, NodeJS, ExpressJS, and MongoDB. | https://github.com/Naveen-prasanth-S/Perscription-Validation |
-| 🧠 **Interactive Quiz Website** | Interactive quiz application built using HTML, CSS, Bootstrap, and JavaScript for engaging learning. | https://github.com/Naveen-prasanth-S/Interactive-Quiz |
 | 📚 **V-Learn** | A collaborative learning platform where students can share study resources and connect with peers. | https://github.com/Naveen-prasanth-S |
-  
+| 🧠 **Interactive Quiz Website** | Interactive quiz application built using HTML, CSS, Bootstrap, and JavaScript for engaging learning. | https://github.com/Naveen-prasanth-S/Interactive-Quiz |
+| 📌 **Attendo** | Attendance tracking application for employees and students with cloud-based synchronization. | https://github.com/Naveen-prasanth-S/Attendo_app |
+
 ---
 
 ⭐ *Always learning, always building.*
-](https://github.com/Naveen-prasanth-S/Attendo_app)
