@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Naveen Prasanth S
 
 🎓 M.Sc. Software Systems Student  
-💻 Passionate Software Developer | Tech Enthusiast  
+
 
 ---
 
