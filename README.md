@@ -50,7 +50,6 @@ A pharmacy management system designed to streamline pharmacy operations and inve
 
 **Technologies:** React.js, Node.js, Prisma, PostgreSQL
 
-🔗 **Repository:** [Pharmacy ERP System](YOUR_PHARMACY_ERP_REPOSITORY_LINK)
 
 ### 🏫 School ERP System
 
@@ -66,7 +65,6 @@ A school management system designed to support administrative and academic workf
 
 **Technologies:** PHP, Laravel, JavaScript, and other project technologies as applicable.
 
-🔗 **Repository:** [School ERP System](YOUR_SCHOOL_ERP_REPOSITORY_LINK)
 
 ---
 
